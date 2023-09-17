@@ -7,16 +7,25 @@ draft = false
 
 > If you think without writing, you only think that you're thinking.
 
-Writing, since its invention, has revolutionized human civilization. Being a convenient tool for communicating ideas, it is
-used to transfer information. But is it just merely a system of communication? Or is it more?
+We can communicate way effectively using modern technology nowadays. Having access to high speed
+internet and cell phones has made it possible to send and receive information in a fraction of
+a second. Using services like YouTube, Instagram and TikTok we can also share online content in
+different formats. In such a digitalized world is it still necessary to write?
 
-It is often times believed that one's writings must be seen by others eyes, but that is not true. I believe writing can be a
-very personal thing to do. In fact one can write, not to be read by others but rather to ****think****.
+First of all you should realize that writing is not just for the sake of
+communication. Putting your thoughts and ideas into words gives you way more than
+simply conveying them to other people. But how else does writing benefit you?
 
-Sometimes our head is filled with so many different ideas. They usually have a chaotic nature which makes it really hard to
-put them in words. This inability to express your ideas clearly may cause great deal of trouble with communication.
+Most of the time our mind is full of different ideas. These ideas are mostly vague and unclear.
+We know that we want to talk about a topic, but we aren't exactly sure about
+how to put them in words. This unclarity in thinking can cause many problems.
 
-Writing, when done with pen and paper the old way, can help you a lot in recognizing the true nature of your thought. How? By
-slowing down and actually taking time to think about thinking. When writing, you're not just thinking about the topic you want to
-talk about but also think about thinking. You actually take time to think about what is it that you want to express and how you
-can do it.
+Writing can be seen as a process in which you pin down a single thought in your
+mind and try to investigate the true nature of it. In this process, you realize
+the things you don't understand and you attempt to understand them and gain a deeper insight about your own
+ideas. Slowing down is one of the ways in which you achieve this. It is only in the process of writing that you truly discover what is it that
+you're thinking of. Your previsoly fuggy ideas start to become crystal clear.
+
+It can be concluded that writing is an immensely valuable activity. You may not gain a benefit from it
+when you just start it out, but it is absolutely worth putting time and effort in it. So why don't you
+consider turning writing into a daily habit?
