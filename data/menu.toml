@@ -7,3 +7,10 @@ title = "posts"
   show_more_text = "See archive..."
   show_more_url = "posts"
 
+[[entries]]
+title = "links"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://www.github.com/amirmtaati"
+

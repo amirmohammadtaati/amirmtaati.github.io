@@ -1,4 +1,6 @@
 baseURL = 'http://amirmtaati.github.io/'
 languageCode = 'en-us'
 title = 'Amir M. Taati'
-theme = 'nostyleplease'
+theme = 'hugo-bearblog'
+
+

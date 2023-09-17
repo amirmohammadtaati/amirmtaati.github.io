@@ -1,0 +1,22 @@
++++
+title = "Why Write?"
+author = ["mamad"]
+date = 2023-09-16T12:53:00+03:30
+draft = false
++++
+
+> If you think without writing, you only think that you're thinking.
+
+Writing, since its invention, has revolutionized human civilization. Being a convenient tool for communicating ideas, it is
+used to transfer information. But is it just merely a system of communication? Or is it more?
+
+It is often times believed that one's writings must be seen by others eyes, but that is not true. I believe writing can be a
+very personal thing to do. In fact one can write, not to be read by others but rather to ****think****.
+
+Sometimes our head is filled with so many different ideas. They usually have a chaotic nature which makes it really hard to
+put them in words. This inability to express your ideas clearly may cause great deal of trouble with communication.
+
+Writing, when done with pen and paper the old way, can help you a lot in recognizing the true nature of your thought. How? By
+slowing down and actually taking time to think about thinking. When writing, you're not just thinking about the topic you want to
+talk about but also think about thinking. You actually take time to think about what is it that you want to express and how you
+can do it.
