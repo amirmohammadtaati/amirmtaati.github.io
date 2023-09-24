@@ -14,5 +14,5 @@ These topics range from **Computer Science** to **Mathematics** and **Philosophy
 You can find me in the links below.
 
 - [Github](https://github.com/amirmtaati)
-- I also have a [Telegram]() channel.
+- I also have a [Telegram](https://t.me/notesfrombedroom) channel.
 - Elon likes to call it X, but I call it [Twitter](https://twitter.com/amirmtaati_en).

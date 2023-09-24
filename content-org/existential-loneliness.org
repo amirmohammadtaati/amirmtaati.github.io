@@ -1,0 +1,7 @@
+#+hugo_base_dir: ../
+
+* TODO Existential Loneliness 
+:PROPERTIES:
+:EXPORT_FILE_NAME: existential-loneliness
+:END:
+
